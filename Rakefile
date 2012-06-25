@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Somethinggreat::Application.load_tasks
+GrizzyBeaw::Application.load_tasks
